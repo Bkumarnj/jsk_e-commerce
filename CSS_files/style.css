@@ -1,0 +1,5 @@
+.logo-div {
+    width: 1fr; max-width: 200px;
+    height: 1fr; max-height: 150px;
+    top: 1;
+}
